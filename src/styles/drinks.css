@@ -1,0 +1,9 @@
+:root {
+  --scene-color: rgb(0, 163, 224);
+  --scene-shimmer: 0.5;
+}
+
+@keyframes shimmerPulse {
+  0%, 100% { opacity: calc(0.6 + var(--scene-shimmer) * 0.2); }
+  50% { opacity: calc(0.8 + var(--scene-shimmer) * 0.2); }
+}

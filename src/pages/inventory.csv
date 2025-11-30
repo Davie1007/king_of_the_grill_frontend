@@ -1,0 +1,12 @@
+id,name,price,buying_price,price2,price3,stock,unit,type,image
+"63","Safety Clips","50.00","20.00","50.00","50.00","172.00","piece","Gas","inventory_images/wECQuwZYCNsVLaiBISjXPBBi64WZIE7Z2NETbktv.jpg"
+"65","Gas Pipe","300.00","199.99","280.00","270.00","281.00","1m","Gas","inventory_images/lbrReFQC9H67aA7ChL1Ke4FUnjVhrIpbnxwfXSNU.jpg"
+"66","Gas Regulator 13kg","900.00","0.00","880.00","870.00","14.00","1 piece","Gas","inventory_images/5AU6E9izAo5D2ZLWuKEiRXwwUQOLXprZkeRcfKXc.jpg"
+"67","Gas Grill 6kg","350.00","0.00","330.00","320.00","110.00","1 piece","Gas","inventory_images/tT9Y3bpjsXeWxuP5btpyGlKLw72dEbO9YdRfqsBI.jpg"
+"68","Gas Burner 6kg","500.00","299.99","530.00","520.00","84.00","1 piece","Gas","inventory_images/UTpVW2WVV3J8NvmgqH0MrtZqpvZKPFGIxybWs6w9.jpg"
+"69","Gas Regulator 6kg","650.00","0.00","630.00","620.00","5.00","1 piece","Gas","inventory_images/YdItKr0IG2ADolc4S5u6eRL5fY6S0bubWBlD3rBP.jpg"
+"70","Galana Gas 13kg","2600.00","0.00","2580.00","2550.00","5.00","1 unit","Gas","inventory_images/uzIOBNND3AjxL2mGXmyqPGQivdFxuxVTirDJmXMq.jpg"
+"71","Galana Gas 6kg","1300.00","800.00","1280.00","1249.99","279.00","1 unit","Gas","inventory_images/Ip7OoqhRA15vFSfRoVtnOqi64oDt5fFG1R8k1W8X.jpg"
+"72","Hass Gas 13kg","2600.00","2000.00","2580.00","2550.00","11.00","1 unit","Gas","inventory_images/7pQIUvxPNRkL7wpx9M6fXmkWXV6JsIkQOpw2JS3W.jpg"
+"73","Lake Gas 6kg","1300.00","700.00","1280.00","1250.00","285.00","1 unit","Gas","inventory_images/Kcxlc67R0oJY4G3IJHy70sVppBBFzg981eD3okfM.jpg"
+"74","Lake Gas 13kg","2600.00","2000.00","2580.00","2550.00","0.99","1 unit","Gas","inventory_images/n9bF2LCqg8T2gVQiY7d0ceMu3vrwaVqUUhfyReVY.jpg"

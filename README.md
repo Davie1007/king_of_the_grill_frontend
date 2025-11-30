@@ -59,7 +59,7 @@ A full-featured, responsive **Point of Sale (POS)** application built with **Rea
 
 ```bash
 git clone https://github.com/Davie1007/king_of_the_grill_frontend.git
-cd posify-pos-dashboard
+cd SymoBusiness
 
 # Install dependencies
 npm install

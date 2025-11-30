@@ -1,6 +1,6 @@
 # KingOfTheGrill – Modern Point of Sale System with Advanced Dashboard
 
-![POSify Banner]([https://via.placeholder.com/1200x600/6366f1/ffffff?text=POSify+-+Next-Gen+Point+of+Sale+Dashboard](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eEt1hztdKEHAnhBxwz7bwZ9moErZifnagZ3YS92c4phBObMnkyREGsDDrGhe1EbwKKg&usqp=CAU))
+![KingOfTheGrill Banner]([https://via.placeholder.com/1200x600/6366f1/ffffff?text=POSify+-+Next-Gen+Point+of+Sale+Dashboard](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eEt1hztdKEHAnhBxwz7bwZ9moErZifnagZ3YS92c4phBObMnkyREGsDDrGhe1EbwKKg&usqp=CAU))
 *Beautiful • Fast • Powerful • Built for Modern Retail*
 
 A full-featured, responsive **Point of Sale (POS)** application built with **React 19**, **Vite**, **Tailwind CSS**, and **Material UI (MUI)** — featuring a stunning real-time dashboard, inventory management, sales analytics, customer tracking, and offline support.
